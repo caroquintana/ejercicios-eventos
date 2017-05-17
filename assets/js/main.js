@@ -12,8 +12,8 @@ function paginaCargada(){
 
 function sobreMi(){
 	alert("¡Estás sobre mí! :)");
-}
+};
 
 function noSobreMi(){
 	alert("¡Ya no estás sobre mí! :(");
-}
+};
